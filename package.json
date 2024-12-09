@@ -1,0 +1,23 @@
+{
+  "name": "atividade-aula-2",
+  "version": "1.0.0",
+  "description": "Atividade de Formulario",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abnestinencia/ATIVIDADE-AULA-2.git"
+  },
+  "author": "Abner Paixão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abnestinencia/ATIVIDADE-AULA-2/issues"
+  },
+  "homepage": "https://github.com/Abnestinencia/ATIVIDADE-AULA-2#readme",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
